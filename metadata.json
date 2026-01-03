@@ -1,0 +1,8 @@
+{
+  "name": "Nexus AI - Enterprise Management Suite",
+  "description": "A sophisticated, full-featured project management platform featuring real-time AI assistance, interactive Kanban boards, and advanced data analytics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
